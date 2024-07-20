@@ -1,0 +1,388 @@
+{
+  "title": "kandilvas",
+  "id": "kandilvas",
+  "system": "cyphersystem",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "2.13.1",
+  "lastPlayed": "Mon Apr 08 2024 20:51:19 GMT-0500 (Central Daylight Time)",
+  "playtime": 99217,
+  "packs": [
+    {
+      "name": "descriptors",
+      "label": "Descriptors",
+      "path": "packs/descriptors",
+      "type": "JournalEntry",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "types",
+      "label": "Types",
+      "path": "packs/types",
+      "type": "JournalEntry",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "skills-expanded",
+      "label": "Skills (Expanded)",
+      "path": "packs/skills-expanded",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "skills-basic",
+      "label": "Skills (Basic)",
+      "path": "packs/skills-basic",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "homebrew-types",
+      "label": "Homebrew: Types",
+      "path": "packs/homebrew-types",
+      "type": "JournalEntry",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "godforsaken-equipment",
+      "label": "Godforsaken: Equipment",
+      "path": "packs/godforsaken-equipment",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "homebrew-ancestry",
+      "label": "Homebrew: Ancestry",
+      "path": "packs/homebrew-ancestry",
+      "type": "JournalEntry",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Choices & Options",
+      "type": "Item",
+      "name": "choices-and-options",
+      "path": "packs/choices-and-options",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "abilities",
+      "label": "Abilities",
+      "path": "packs/abilities",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "foci",
+      "label": "Foci",
+      "path": "packs/foci",
+      "type": "JournalEntry",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "homebrew-foci",
+      "label": "Homebrew: Foci",
+      "path": "packs/homebrew-foci",
+      "type": "JournalEntry",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "flavors",
+      "label": "Flavors",
+      "path": "packs/flavors",
+      "type": "JournalEntry",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "fantasy-armor",
+      "label": "Fantasy Armor",
+      "path": "packs/fantasy-armor",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "fantasy-weapons",
+      "label": "Fantasy Weapons",
+      "path": "packs/fantasy-weapons",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "fantasy-equipment",
+      "label": "Fantasy Equipment",
+      "path": "packs/fantasy-equipment",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "fantasy-artifacts",
+      "label": "Fantasy Artifacts",
+      "path": "packs/fantasy-artifacts",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "fantasy-cyphers",
+      "label": "Fantasy Cyphers",
+      "path": "packs/fantasy-cyphers",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "cyphers",
+      "label": "Cyphers",
+      "path": "packs/cyphers",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "ammo",
+      "label": "Ammo",
+      "path": "packs/ammo",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "sci-fi-armor",
+      "label": "Sci-fi Armor",
+      "path": "packs/sci-fi-armor",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "sci-fi-artifacts",
+      "label": "Sci-fi Artifacts",
+      "path": "packs/sci-fi-artifacts",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "sci-fi-equipment",
+      "label": "Sci-fi Equipment",
+      "path": "packs/sci-fi-equipment",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "sci-fi-posthuman-packages",
+      "label": "Sci-fi Posthuman Packages",
+      "path": "packs/sci-fi-posthuman-packages",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "sci-fi-weapons",
+      "label": "Sci-fi Weapons",
+      "path": "packs/sci-fi-weapons",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "starships",
+      "label": "Starships",
+      "path": "packs/starships",
+      "type": "Actor",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "fairy-tale-cyphers",
+      "label": "Fairy Tale Cyphers",
+      "path": "packs/fairy-tale-cyphers",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "fairy-tale-equipment",
+      "label": "Fairy Tale Equipment",
+      "path": "packs/fairy-tale-equipment",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "fairy-tale-artifacts",
+      "label": "Fairy Tale Artifacts",
+      "path": "packs/fairy-tale-artifacts",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Cypher Shorts Types",
+      "type": "JournalEntry",
+      "name": "cypher-shorts-types",
+      "path": "packs/cypher-shorts-types",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Cypher Shorts Foci",
+      "type": "JournalEntry",
+      "name": "cypher-shorts-foci",
+      "path": "packs/cypher-shorts-foci",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Cypher Shorts Descriptors",
+      "type": "JournalEntry",
+      "name": "cypher-shorts-descriptors",
+      "path": "packs/cypher-shorts-descriptors",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
